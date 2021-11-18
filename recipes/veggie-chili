@@ -6,5 +6,31 @@
     </head>
     <body>
         <h1>Vegetarian Chili</h1>
+        <img src="../img/veggie-chili.jpg" alt="Photo of the prepared Vegetarian Chili"/>
+        <h2>Description</h2>
+        <p>This chili is perfect for watching football games with a crowd, since it’s a hearty meatless option that carnivores will enjoy. Plus, it can be vegan and gluten free if you choose your toppings carefully. This chili will satisfy everyone.</p>
+        <p>While the ingredients in this chili recipe are super basic, the flavor is anything but. Simple ingredients can taste exceptional when they start off with aromatics like onion, carrot, celery and garlic.</p>
+        <h2>Ingredients</h2>
+        <ul>
+            <li>1 package frozen burger-style crumbles</li>
+            <li>2 cans black beans, rinsed and drained/li>
+            <li>2 cans dark red kidney beans</li>
+            <li>1 can light red kidney beans</li>
+            <li>1 can diced beans</li>
+            <li>1 can diced tomatoes</li>
+            <li>1 can tomato juice</li>
+            <li>5 onions, chopped</li>
+            <li>3 tablespoons chili powder</li>
+            <li>1.5 tablespoons ground cumin</li>
+            <li>1 tablespoons garlic powder</li>
+            <li>2 bay leaves</li>
+            <li>salt and pepper to taste</li>
+        </ul>
+        <h2>Steps</h2>
+        <ol>
+            <li>In a large pot, combine meat substitute, black beans, kidney beans, diced tomatoes, tomato juice, onions, chili powder, cumin, garlic powder, bay leaves, salt and pepper.</li>
+            <li>Bring to a simmer and cover.</li>
+            <li>Let the chili simmer for at least 1 hour before serving.</li>
+        </ol>
     </body>
 </html>
