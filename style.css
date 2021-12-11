@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    font-family: 'Monsterrat', sans-serif;
+}
+
+.link{
+    background-color: rgba(0, 0, 0, 0.082);
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
